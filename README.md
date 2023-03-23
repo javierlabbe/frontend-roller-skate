@@ -1,2 +1,2 @@
-# frontend-tictactoe
+# frontend-roller-skate
 proyecto curso desarrollo frontend
