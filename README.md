@@ -1,7 +1,7 @@
-# Rollerskate web
+# Learn2Roll
 
 ## Descripción:
-Proyecto de desarrollo front end enfocado en la creación de una página web que reuna distintos tutoriales para aprender a patinar.
+Proyecto de desarrollo front end enfocado en la creación de una página web (Learn2Roll) que reuna distintos tutoriales para aprender a patinar.
 
 ## Paleta de colores:
 
