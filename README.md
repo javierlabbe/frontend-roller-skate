@@ -12,3 +12,5 @@ Proyecto de desarrollo front end enfocado en la creación de una página web (Le
 - Footer: #222222
 - Botones: #FF5E5E
 
+## 🔗 Links
+[Balsamiq Mockup](https://balsamiq.cloud/s9b2w6j/pifhkz4)
