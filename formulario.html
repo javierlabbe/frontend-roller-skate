@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro</title>
+    <script src="/assets/script.js" defer></script>
+</head>
+<body>
+    <form action="#" method="post">
+        <fieldset>
+            <legend>Datos Personales</legend>
+            <label for="name">Nombre: <input id="name" name="name" type="text" required></label>
+            <label for="lastname">Apellidos: <input id="lastname" name="lastname" type="text" required></label>
+            <label for="birthdate">Fecha de Nacimiento: <input id="birthdate" name="birthdate" type="date" required></label>
+        </fieldset>
+        <fieldset>
+            <legend>Datos de Contacto</legend>
+            <label for="celular">Celular: <input id="celular" name="celular" type="text" required></label>
+            <label for="correo">Correo: <input id="correo" name="correo" type="email" required></label>
+        </fieldset>
+        <fieldset>
+            <legend>Contraseña</legend>
+            <label for="pass1">Contraseña: <input id="pass1" name="pass1" type="password" required required minlength="8"></label>
+            <label for="pass2">Confirme su contraseña: <input id="pass2" name="pass2" type="password" required required minlength="8"></label>
+        </fieldset>
+        <label for="terms"><input id="terms" name="terms" type="checkbox" required> Acepto los términos y condiciones.</label>
+        <button type="submit">Siguiente</button>
+    </form>
+</body>
+</html>
